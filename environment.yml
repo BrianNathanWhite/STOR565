@@ -1,0 +1,9 @@
+name: STOR565
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - numpy
+  - matplotlib
+  - ipykernel
+prefix: /home/bnw/miniconda3/envs/STOR565
