@@ -3,6 +3,7 @@
 Computation labs for STOR 565 (Machine Learning) at UNC Chapel Hill, Department of Statistics and Operations Research.
 
 **Semester:** Spring 2026
+
 **IA:** Brian White
 
 ## Labs
